@@ -4,24 +4,12 @@ sidebar_position: 1
 
 # FAQ
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Most asked quistions about oddin.
 
-## Getting Started
+## How to integrate the oddin tag?
 
-Get started by **creating a new site**.
+See the [Integration manuals](./category/integration-manuals) Integration manuals section in this documentation
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Can I see the code that his sent to my browser?
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
+Yes, our tag code is pubilshed in our GitHub page.
