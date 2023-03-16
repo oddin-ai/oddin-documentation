@@ -1,8 +1,8 @@
 {
-  "label": "Integration manuals",
+  "label": "Publishers Integration",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Integration manuals for intagration oddin with your project."
+    "description": "Integration manuals for oddin publisher website intagration"
   }
 }

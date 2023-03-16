@@ -83,7 +83,7 @@ const config = {
               },
               {
                 label: 'Manuals',
-                to: '/docs/category/integration-manuals',
+                to: '/docs/category/publishers-integration',
               },
             ],
           },
