@@ -55,7 +55,7 @@ const config = {
         title: '',
         logo: {
           alt: 'oddin Logo',
-          src: 'img/Oddin-Logo-Colour-x2.png',
+          src: 'img/oddin-logo-colour-x2-cropped.png',
         },
         items: [
           {
