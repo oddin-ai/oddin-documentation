@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 3
 ---
 
 # Next.Js integration
@@ -14,9 +14,7 @@ With the `<Script />` component as followed in the page.
 (both can be implemented in pages/\_app.js or pages/\_app.tsx to include the tag in all pages, next.js version > 11 is needed to support this integration)
 
 ```jsx title="/pages/front.tsx"
-<Script
-  src={'//web.oddin.ai/api/campaign/otag.js?oid=########&h=1&cb=' + Date.now()}
-/>
+<Script src={'//web.oddin.ai/api/campaign/otag.js?oid=########&h=1&cb=' + Date.now()} />
 ```
 
 If a referral spot should also be rendered in the page, this `<div>` element should be added in the relevant place on the page.

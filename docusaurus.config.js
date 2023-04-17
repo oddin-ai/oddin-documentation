@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'oddin documentation',
-  tagline: 'bringing the next billion users to Web-3',
+  tagline: 'Decentralized Infrastructure for Digital Advertisers',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -77,6 +77,10 @@ const config = {
           {
             title: 'Docs',
             items: [
+              {
+                label: 'Intro',
+                to: '/docs/introduction',
+              },
               {
                 label: 'Faq',
                 to: '/docs/faq',
