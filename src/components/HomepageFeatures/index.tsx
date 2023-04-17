@@ -29,7 +29,7 @@ export default function HomepageFeatures(): JSX.Element {
             description={
               <div>
                 Go to the{' '}
-                <Link to='/docs/category/integration-manuals'>docs</Link> now!
+                <Link to='/docs/introduction'>docs</Link> now!
               </div>
             }
           />

@@ -52,10 +52,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'oddin',
+        title: '',
         logo: {
           alt: 'oddin Logo',
-          src: 'img/oddin_logo_sm.png',
+          src: 'img/Oddin-Logo-Colour-x2.png',
         },
         items: [
           {
