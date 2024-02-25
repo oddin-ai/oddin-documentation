@@ -4,6 +4,11 @@ const sidebars = {
     'introduction',
     {
       type: 'category',
+      label: 'Problem Statement',
+      items: ['problem-statement/introduction'],
+    },
+    {
+      type: 'category',
       label: 'Publisher Integration',
       items: ['publisher-tutorial/requirements'],
     },
