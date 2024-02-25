@@ -25,11 +25,10 @@ export default function HomepageFeatures(): JSX.Element {
       <div className='container'>
         <div className='row'>
           <Feature
-            title='Some general explanetion about this docs.'
+            title='Empowering the new publishers'
             description={
               <div>
-                Go to the{' '}
-                <Link to='/docs/introduction'>docs</Link> now!
+                Go to the <Link to='/docs/abstract'>docs</Link> now!
               </div>
             }
           />
