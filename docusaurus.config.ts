@@ -89,11 +89,15 @@ const config: Config = {
           items: [
             {
               label: 'Telegram',
-              href: 'https://t.me/+DmxyLnACYZplMTg0',
+              href: 'https://t.me/oddinai',
             },
             {
               label: 'Linkedin',
               href: 'https://www.linkedin.com/company/oddin/',
+            },
+            {
+              label: 'X',
+              href: 'https://x.com/Oddinai',
             },
           ],
         },

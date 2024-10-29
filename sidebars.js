@@ -1,7 +1,11 @@
 const sidebars = {
   oddinSidebar: [
     'abstract',
-    'introduction',
+    {
+      type: 'category',
+      label: 'Welcome to Oddin',
+      items: ['welcome-to-oddin/introduction'],
+    },
     {
       type: 'category',
       label: 'Problem Statement',
