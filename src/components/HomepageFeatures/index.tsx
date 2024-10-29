@@ -28,7 +28,8 @@ export default function HomepageFeatures(): JSX.Element {
             title='Empowering the new publishers'
             description={
               <div>
-                Go to the <Link to='/docs/abstract'>docs</Link> now!
+                Go to the{' '}
+                <Link to='/docs/welcome-to-oddin/introduction'>docs</Link> now!
               </div>
             }
           />

@@ -1,25 +1,22 @@
 const sidebars = {
   oddinSidebar: [
-    'abstract',
     {
       type: 'category',
       label: 'Welcome to Oddin',
-      items: ['welcome-to-oddin/introduction'],
+      items: ['welcome-to-oddin/introduction', 'welcome-to-oddin/overview'],
     },
     {
       type: 'category',
-      label: 'Problem Statement',
-      items: ['problem-statement/introduction'],
+      label: 'Getting Started',
+      items: ['getting-started/for-kols', 'getting-started/for-advertisers'],
     },
     {
       type: 'category',
-      label: 'Publisher Integration',
-      items: ['publisher-tutorial/requirements'],
-    },
-    {
-      type: 'category',
-      label: 'Advertiser Integration',
-      items: ['advertiser-tutorial/node-deployment'],
+      label: 'Dashboard Overview',
+      items: [
+        'dashboard-overview/for-kols',
+        'dashboard-overview/for-advertisers',
+      ],
     },
     ,
     'faq',

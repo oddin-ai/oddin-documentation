@@ -72,7 +72,7 @@ const config: Config = {
           items: [
             {
               label: 'Intro',
-              to: '/docs/introduction',
+              to: 'welcome-to-oddin/introduction',
             },
             {
               label: 'Faq',
