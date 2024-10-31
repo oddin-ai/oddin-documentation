@@ -8,7 +8,10 @@ Brief explanation of how the integration works with the bot.
 ## Connecting the Oddin Bot
 
 Guide on adding the Oddin bot to your Telegram channel.
+![Channel Admin](/img/tg-channel-add-admin.jpg)
+
 Simple instructions for granting the bot necessary permissions to post content.
+![Channel Rights](/img/tg-channel-admin-rights.jpg)
 
 ## Viewing Campaigns
 
