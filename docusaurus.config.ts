@@ -1,3 +1,4 @@
+import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
@@ -27,14 +28,14 @@ const config: Config = {
 
   presets: [
     [
-      '@docusaurus/preset-classic',
+      'classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: './sidebars.ts',
           sidebarCollapsible: false,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: ['./src/css/custom.css'],
         },
       } satisfies Preset.Options,
     ],
@@ -42,6 +43,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: '',
@@ -65,14 +71,13 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
       links: [
         {
           title: 'Docs',
           items: [
             {
               label: 'Intro',
-              to: 'welcome-to-oddin/introduction',
+              to: '/docs/welcome-to-oddin/introduction',
             },
             {
               label: 'Faq',
@@ -80,7 +85,7 @@ const config: Config = {
             },
             {
               label: 'Manuals',
-              to: '/docs/category/publishers-integration',
+              to: '/docs/getting-started/for-kols',
             },
           ],
         },
@@ -112,6 +117,10 @@ const config: Config = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} oddin.ai, Inc. Built with Docusaurus.`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
 };
