@@ -48,7 +48,7 @@ const config: Config = {
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/oddin-social-card.png',
     navbar: {
       title: '',
       logo: {
