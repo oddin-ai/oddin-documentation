@@ -10,7 +10,11 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Getting Started',
-      items: ['getting-started/for-kols', 'getting-started/for-advertisers'],
+      items: [
+        'getting-started/for-kols',
+        'getting-started/for-advertisers',
+        'getting-started/suggest-campaign',
+      ],
     },
     {
       type: 'category',

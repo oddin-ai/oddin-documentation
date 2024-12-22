@@ -47,7 +47,7 @@ Creating a campaign in Oddin is simple and intuitive. Follow these steps to set 
    - **Campaign Budget**: Set your overall and daily budget for the campaign. This determines the reach and duration of your campaign.
    - **Cost, Cost Structure, State**: Currently, these fields can only be set by contacting Oddin, and their values will be determined based on the agreement made with Oddin.
 
-![Signup Form](/img/oddin-signup-form.jpg)
+![Campaign Form](/img/oddin-campaign-form.jpg)
 
 4. **Review and Submit**\
    Carefully review all campaign details to ensure accuracy. When you’re ready, click “Save & Publish” to create your campaign. It will now appear in the campaign table, where you can manage and make further changes as needed.
@@ -68,6 +68,8 @@ The _Reports_ page in Oddin’s dashboard provides an overview of your campaign 
 
 - **Set the Date Range**: Use the input box to select a specific date or range for which you want to view campaign performance data.
 - **Customize Your Report View**: Choose to view your report organized by Campaign to see performance metrics for each individual campaign, or by Date to monitor activity over time.
+
+![Report Settings](/img/oddin-report-settings.jpg)
 
 This page allows you to track engagement and refine strategies based on real-time data, making it easy to assess and optimize the effectiveness of your campaigns.
 
