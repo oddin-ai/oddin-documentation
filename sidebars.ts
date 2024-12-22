@@ -20,6 +20,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Dashboard Overview',
       items: [
+        'dashboard-overview/overview',
         'dashboard-overview/for-kols',
         'dashboard-overview/for-advertisers',
       ],
