@@ -1,16 +1,10 @@
-# Suggest Campaigns
+# OddiBook - Suggest Campaign
 
 Oddin allows advertisers to submit campaigns directly to KOLs through a simple self-service process. This feature makes it easy to propose targeted campaigns tailored to specific KOL channels. Follow these steps to get started:
 
 ### Access the Suggest Campaign Link
 
-Click on the link provided by the KOL or publisher. This will take you to a dedicated sign-up screen.
-
-![KOL Link Signup](/img/oddin-kollink-signup.jpg)
-
-### Complete Sign-Up
-
-If you don’t already have an Oddin account, fill in the required details on the sign-up screen to create one. Once you’ve completed the sign-up process, you’ll be redirected to the campaign submission form.
+Click on the link provided by the KOL or publisher. The link is in the format of https://oddin.ai/inv/#identifier#
 
 ### Fill Out the Campaign Submission Form
 

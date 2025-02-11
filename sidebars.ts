@@ -14,6 +14,7 @@ const sidebars: SidebarsConfig = {
         'getting-started/for-kols',
         'getting-started/for-advertisers',
         'getting-started/suggest-campaign',
+        'getting-started/oddinbuzz-agent',
       ],
     },
     {
