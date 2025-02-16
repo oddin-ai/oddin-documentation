@@ -17,12 +17,16 @@ The revenue from this activity will go into a pool that will be shared with KOLs
 
 To connect the OddinBuzz agent bot, Follow these steps:
 
+### Adding to a Telegram Channel
+
 - In your Telegram channel, go to the "Admin" section and add the OddinBuzz agent bot as an admin.
   ![Channel Admin](/img/tg-channel-add-oddinbuzz.jpg)
 - Ensure that the bot has the necessary permissions to post content in your channel.
   ![Channel Rights](/img/tg-channel-oddinbuzz-rights.jpg)
 
-- If you wish to add the OddinBuzz agent bot Telegram group, add the bot as group member.
+### Adding to a Telegram Group
+
+- If you wish to add the OddinBuzz agent bot to your Telegram group, add the bot as group member.
   ![Group Member](/img/tg-group-add-oddinbuzz.jpg)
 
 _The name of the OddinBuzz Agent bot is_\

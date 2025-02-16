@@ -22,10 +22,14 @@ Go to https://adm.oddin.ai/login to access the login page.
 
 Once logged in, you'll be prompted to link your Telegram channel. Follow these steps:
 
+### Adding to a Telegram Channel
+
 - In your Telegram channel, go to the "Admin" section and add the Oddin bot as an admin.
   ![Channel Admin](/img/tg-channel-add-admin.jpg)
 - Ensure that the bot has the necessary permissions to post content in your channel.
   ![Channel Rights](/img/tg-channel-admin-rights.jpg)
+
+### Adding to a Telegram Group
 
 - If you are monitizing a Telegram group, add the bot as group member.
   ![Group Member](/img/tg-group-add-member.jpg)
