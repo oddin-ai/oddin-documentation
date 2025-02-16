@@ -4,4 +4,13 @@ sidebar_position: 2
 
 # Quick Overview
 
-Oddin brings new monetization opportunities to Key Opinion Leaders (KOLs) by simplifying the process of running ads in their Telegram channels. KOLs can earn more by accepting ad campaigns through a user-friendly dashboard that handles everything—from ad placement to payment—allowing them to focus on creating quality content. For advertisers, Oddin offers a unique way to reach highly engaged, niche audiences by partnering with trusted influencers. The platform’s comprehensive dashboard allows advertisers to easily set up campaigns, choose target channels, and monitor performance metrics, helping them achieve better results and transparency on their ad spend. Together, Oddin’s ecosystem empowers KOLs to grow their earnings and gives advertisers greater control and flexibility to reach the right audience.
+With Oddin, KOLs can easily monetize their Telegram & X channels by sharing relevant ad content that resonates with their audiences, all through a fully integrated bot (1). Advertisers, on the other hand, gain access to a powerful dashboard where they can create targeted campaigns, manage ad placements, and track results in real-time—ensuring their ads reach the right people on channels they trust. Together, Oddin’s ecosystem empowers KOLs to grow their earnings and gives advertisers greater control and flexibility to reach the right audience.
+
+This document will introduce you to Oddin’s advertising ecosystem, designed to simplify and enhance the experience for KOLs and advertisers alike. We’ll cover Oddin’s core features, explain how each participant can benefit, and guide you through getting started with the platform.
+
+_Oddin is redefining the advertising landscape, making it simpler, more reliable, and more profitable for everyone involved._
+
+:::note
+
+1. Bot is only available for Telegram Channels ATM.
+   :::

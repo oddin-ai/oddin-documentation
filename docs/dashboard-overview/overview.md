@@ -1,3 +1,3 @@
 # Dashboard Overview
 
-The Oddin dashboard is designed to provide all users with a streamlined experience, giving them the tools they need to manage campaigns, monitor performance, and adjust settings. Below are the key sections available in the dashboard for KOLs and Advertisers.
+The Oddin dashboard is engineered to provide a user-friendly interface that streamlines your experience, enabling effortless management of campaigns, real-time performance tracking, and easy adjustments to settings. Here’s a guide to the main sections accessible to KOLs and Advertisers on the dashboard.

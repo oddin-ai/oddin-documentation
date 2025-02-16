@@ -1,16 +1,30 @@
 # For KOLs
 
 1. **Main Page**
-   The main dashboard page provides an overview of your performance metrics, including key stats and charts. Here, you can monitor clicks, impressions, and earnings for today or the current month at a glance.
+   Access a comprehensive dashboard displaying real-time analytics of your channel's performance, including metrics such as clicks, impressions, and earnings, both daily and monthly. This central hub helps you quickly gauge your monetization efforts and audience engagement.
+
+- Real-time earnings tracker displaying daily, weekly, and monthly revenue streams
+- Visual representation of engagement trends through interactive charts
+- Quick-view statistics showing impression-to-click ratios
+- Revenue forecasting based on historical performance
+- Customizable widgets to display your most important metrics
 
 2. **Account Settings**
-   Adjust your account preferences, update contact details, and your wallet address for payments.
+   In this section, you can personalize your user experience by updating your contact details, modifying account preferences, and setting up payment information, ensuring smooth and timely transactions.
+
+- Profile management with detailed channel information and audience demographics
+- Communication preferences for platform interactions
 
 3. **Channels**
-   Manage your integrated Telegram channels, and channels to offer on your self service page, on this page. You can add, update, or review channel settings, ensuring everything is properly configured for campaigns.
+   This area is dedicated to managing your Telegram & X channels linked to Oddin. Here, you can add new channels, update existing ones, or fine-tune settings to align with specific campaign requirements, maximizing your advertising effectiveness.
 
-4. **Orders**
-   View and manage self-service campaign requests submitted by advertisers. This page allows you to review, accept, or decline campaigns directly.
+4. **Orders - (OddiBook)**
+   Oversee all incoming campaign requests from advertisers in this module. You have the power to review details, accept offers that match your channel’s ethos, or decline those that don’t fit, giving you full control over the content your audience sees.
 
 5. **Reports**
-   Analyze your overall performance through detailed reports. Customize the view by selecting specific date ranges to track impressions, clicks, and earnings over time.
+   Utilize detailed, customizable reports to analyze your performance data over time. Select various date ranges to review comprehensive statistics on impressions, clicks, and earnings, which can help you make informed decisions to boost your channel's profitability.
+
+- Custom date range analysis with comparative period options
+- Revenue breakdown by campaign type and advertiser
+- Engagement pattern analysis with audience behavior insights
+- Performance benchmarking against similar channels
