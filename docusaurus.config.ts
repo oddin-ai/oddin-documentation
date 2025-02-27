@@ -59,7 +59,7 @@ const config: Config = {
       items: [
         {
           type: 'doc',
-          docId: 'faq',
+          docId: 'welcome-to-oddin/introduction',
           position: 'left',
           label: 'Docs',
         },

@@ -8,7 +8,7 @@ With Oddin, KOLs can easily monetize their Telegram & X channels by sharing rele
 
 This document will introduce you to Oddin’s advertising ecosystem, designed to simplify and enhance the experience for KOLs and advertisers alike. We’ll cover Oddin’s core features, explain how each participant can benefit, and guide you through getting started with the platform.
 
-_Oddin is redefining the advertising landscape, making it simpler, more reliable, and more profitable for everyone involved._
+_Oddin is redefining the crypto advertising and, by extension, the crypto marketing landscape, making it simpler, more reliable, and more profitable for everyone involved._
 
 :::note
 

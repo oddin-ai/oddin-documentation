@@ -2,12 +2,18 @@
 
 ## Setting Up Your Account
 
+**What you will require for a setup**
+
+- A Telegram/X channel with a substantial amount of organic engagement.
+- Consistent content generation.
+- Relevance and authenticity
+
 To join Oddin as a Key Opinion Leader (KOL) during our alpha phase, please reach out through our official Telegram channels:
 
 Channel: [Oddin Official Channel](https://t.me/oddinai)
 Group Chat: [Oddin Community Group](https://t.me/+xC7MTyOquMowMmM0)
 
-Once you've received an invitation, follow these steps to access your Oddin dashboard:
+After your sign up is approved, proceed with the following steps to access your Oddin dashboard:
 
 **Visit the Oddin Login Page**\
 Go to https://adm.oddin.ai/login to access the login page.
@@ -39,7 +45,15 @@ oddin_promote_bot
 
 ## Complete Profile Details
 
-Once your channel is connected, complete your profile details within the dashboards Settings page. These details will be used by Oddin to contact you and to process payments. Be sure to add your Polygon wallet address to receive rewards and earnings directly.
+Once your channel is connected, complete your profile details within the dashboard's Settings page. These details will be used by Oddin to contact you and to process payments. Be sure to add your Polygon wallet address to receive rewards and earnings directly.
+![Settings Page](/img/oddin-kol-settings.jpg)
+
+## Setting up your channel
+
+1. After adding your details in the settings page, you can link your Telegram and X channels by going to the channels page and clicking on “New Channel”.
+   ![Channels Page](/img/oddin-kol-channels.jpg)
+2. You will then be directed to the channel setting page where you can add details of your channel and save.
+   ![Settings Page](/img/oddin-channel-setup.jpg)
 
 ## Tracking Your Earnings
 
@@ -48,8 +62,16 @@ In Oddin’s dashboard, you can easily keep track of your earnings from ad campa
 1. **Main Dashboard Page**
    On the main page of the dashboard, you’ll find a quick summary of your earnings, clicks, and impressions. You can use the date selector to toggle between today’s performance and a monthly overview, giving you an at-a-glance view of your latest activity and rewards.
 
+![Dashboard Page 1](/img/oddin-kol-dashboard-1.jpg)
+
 2. **Reports Page**
    For a deeper look at your earnings, head to the Reports page. Here, you’ll find detailed breakdowns of your performance metrics, allowing you to see trends over time and review specific campaign statistics. This page provides insights into your total impressions, clicks, and cumulative earnings—perfect for understanding which campaigns are performing best.
+
+![KOL Reports](/img/oddin-kol-reports.jpg)
+
+:::info
+For assistance with setting up or managing your Oddin account, please contact us via our Telegram channel @oddinai or email us at info@oddin.ai. We're here to help!
+:::
 
 :::note
 
