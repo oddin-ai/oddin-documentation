@@ -8,10 +8,32 @@
 - Consistent content generation.
 - Relevance and authenticity
 
-To join Oddin as a Key Opinion Leader (KOL) during our alpha phase, please reach out through our official Telegram channels:
+To get started with Oddin as a Key Opinion Leader (KOL) during our beta phase, you can sign up directly through the Oddin dashboard or reach out through our official Telegram channels:
 
 Channel: [Oddin Official Channel](https://t.me/oddinai)
 Group Chat: [Oddin Community Group](https://t.me/+xC7MTyOquMowMmM0)
+
+**Go to the Oddin Dashboard** \
+Visit the Oddin login page at https://adm.oddin.ai/login .
+
+![Dashboard Login](/img/oddin-dashboard-login.jpg)
+
+**Select “Sign Up”** \
+On the login page, click the “Sign Up” option to begin creating your account.
+
+**Verify Your Email** \
+After submitting the form, check your email for a verification link. Click the link to confirm your email address and activate your Oddin account.
+
+![Email Verification](/img/oddin-email-verification.jpg)
+
+**Complete the Sign-Up Form**\
+Enter the required information, including your name, email address, and password. Make sure to provide accurate contact information, as this will be used for account verification and campaign updates. Make sure to select "I want to earn money by sharing content on my channel (KOL/Influencer) in the "Please tell us who you are:" section of the sign-up form.
+
+![Signup Form](/img/oddin-signup-form.jpg)
+
+Post verification, you will receive a confirmation and you will be redirected to the login page.
+
+![Post Signup](/img/oddin-post-signup.jpg)
 
 After your sign up is approved, proceed with the following steps to access your Oddin dashboard:
 
@@ -22,7 +44,6 @@ Go to https://adm.oddin.ai/login to access the login page.
 
 - Google Login: Select "Continue with Google" for a quick and easy sign-in.
 - Email and Password: You can also create an account using your email and password.
-  ![Dashboard Login](/img/oddin-dashboard-login.jpg)
 
 ## Connecting the Oddin Bot
 
@@ -59,8 +80,8 @@ Once your channel is connected, complete your profile details within the dashboa
 
 In Oddin’s dashboard, you can easily keep track of your earnings from ad campaigns. There are two main places to view your earnings:
 
-1. **Main Dashboard Page**
-   On the main page of the dashboard, you’ll find a quick summary of your earnings, clicks, and impressions. You can use the date selector to toggle between today’s performance and a monthly overview, giving you an at-a-glance view of your latest activity and rewards.
+1. **Dashboard Page**
+   On the main page of the dashboard, you’ll find a quick summary of your earnings, clicks, and impressions. You can use the date selector to toggle between custom date ranges, giving you an at-a-glance view of your latest activity and rewards.
 
 ![Dashboard Page 1](/img/oddin-kol-dashboard-1.jpg)
 

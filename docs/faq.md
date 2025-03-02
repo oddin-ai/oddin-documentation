@@ -20,6 +20,34 @@ sidebar_position: 5
 
 - We have multiple layers of protection in place. Every advertisement undergoes automated content screening before approval to check for inappropriate content and compliance with platform guidelines. Additionally, we maintain a robust verification system for both advertisers and content creators, ensuring that all participants are legitimate and trustworthy.
 
+### Do I choose which ads to go on my channel?
+
+- Yes you can, Oddin plan to provides you with the flexibility to approve or reject ads based on your preferences and the relevance to your audience. You maintain full control over the content that appears on your channel. At the beta phase, please contact Oddin for any help with removing unwanted ads.
+
+### How is ad performance measured on Oddin?
+
+- Oddin provides the user with a dashboard showcasing an analysis of all key metrics to determine performance. Reports for the campaigns can also be generated as per the user’s requirements.
+
+### What is the minimum budget for starting an ad campaign on Oddin?
+
+- Advertisers can start with a campaign with a budget as low as $1000.
+
+### What should I do if I encounter problems with my ad?
+
+- You can connect with us on our telegram channel @oddinai or drop us an Email at info@oddin.ai
+
+### How can I improve the performance of my ads on Oddin?
+
+- To maximize your earnings, focus on increasing engagement on your Telegram channel through regular, high-quality content and active interaction with your audience. Additionally, optimizing your profile and being open to different types of ad campaigns can also attract more lucrative opportunities.
+
+### How do I monetize my Telegram channel with Oddin?
+
+- Monetizing your Telegram channel on Oddin is straightforward. Once you register as a KOL and set up your profile, you can start accepting advertising campaigns from our network of advertisers. Our automated system will match your channel with relevant ads based on your audience demographics and content style.
+
+### Can I use Oddin if I have multiple Telegram channels?
+
+- Yes, Oddin supports KOLs with multiple channels. You can manage all your channels under one Oddin account, making it easier to monitor campaigns and earnings across different platforms.
+
 ### Feedback
 
 Email: info@oddin.ai
