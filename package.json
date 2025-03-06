@@ -5,11 +5,17 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
+    "start:proj": "docusaurus start --config docusaurus.config.second.ts",
     "build": "docusaurus build",
+    "build:proj": "docusaurus build --config docusaurus.config.second.ts",
+    "build:all": "npm run build && npm run build:proj -- --out-dir build/projects",
     "swizzle": "docusaurus swizzle",
+    "swizzle:proj": "docusaurus swizzle --config docusaurus.config.second.ts",
     "deploy": "docusaurus deploy",
+    "deploy:proj": "docusaurus deploy --config docusaurus.config.second.ts",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
+    "serve:proj": "docusaurus serve --config docusaurus.config.second.ts",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc"

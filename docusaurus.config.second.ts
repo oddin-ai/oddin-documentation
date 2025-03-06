@@ -9,7 +9,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.oddin.ai',
+  url: 'https://projects.oddin.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -32,7 +32,9 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          path: 'projects-docs',
+          routeBasePath: 'docs',
+          sidebarPath: './sidebars.projects.ts',
           sidebarCollapsible: false,
         },
         theme: {
@@ -83,10 +85,6 @@ const config: Config = {
             {
               label: 'Faq',
               to: '/docs/faq',
-            },
-            {
-              label: 'Manuals',
-              to: '/docs/getting-started/for-kols',
             },
           ],
         },

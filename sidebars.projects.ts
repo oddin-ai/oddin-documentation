@@ -11,9 +11,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Getting Started',
       items: [
-        'getting-started/for-kols',
         'getting-started/for-advertisers',
-        'getting-started/suggest-campaign',
         'getting-started/oddinbuzz-agent',
       ],
     },
@@ -22,7 +20,6 @@ const sidebars: SidebarsConfig = {
       label: 'Dashboard Overview',
       items: [
         'dashboard-overview/overview',
-        'dashboard-overview/for-kols',
         'dashboard-overview/for-advertisers',
       ],
     },

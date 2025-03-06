@@ -25,7 +25,7 @@ export default function HomepageFeatures(): JSX.Element {
       <div className='container'>
         <div className='row'>
           <Feature
-            title='Empowering the new publishers'
+            title='Empowering the new advertising eco-system'
             description={
               <div>
                 Go to the{' '}
