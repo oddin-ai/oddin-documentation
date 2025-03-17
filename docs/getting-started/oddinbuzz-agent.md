@@ -30,6 +30,8 @@ To connect the OddinBuzz agent bot, Follow these steps:
 
 - If you wish to add the OddinBuzz agent bot to your Telegram group, add the bot as group member.
   ![Group Member](/img/tg-group-add-oddinbuzz.jpg)
+- Ensure that you are promoting the bot to a group administator and ensure to remove all permissions.
+  ![Group Rights](/img/tg-group-oddinbuzz-rights.jpg)
 
 _The name of the OddinBuzz Agent bot is_\
 @OddinBuzz_agent_bot
