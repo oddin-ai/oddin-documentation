@@ -22,33 +22,33 @@ The form is divided into three parts:
 - **Enter Post Details**: Enter the content details for your post, including the ad text, link (if applicable), and any required instructions. Upload the creative materials (e.g., images or videos) for the campaign and submit it for approval..
 - **Add Extra Contact Details**: Provide any additional contact information to ensure clear communication with the KOL.
  
- ![channel selection](</img/Advertiser Oddibook Channel selection.jpg>)
+ ![channelselection](/img/Advertiser Oddibook Channel selection.jpg)
 
 
 
-![order post details](</img/Advertiser OddiBook Campaign setup 2.jpg>)
+![orderpostdetails](/img/Advertiser OddiBook Campaign setup 2.jpg)
 
 ### Approval Process
 
 Upon completion of the setup process, the advertiser can click the “Preview & Proceed with Payment” button, allowing them to review their campaign. At this stage, they have the option to make edits if necessary.
 
-![campaign setup](</img/Advertiser Oddibook Preview.jpg>)
+![campaignsetup](/img/Advertiser Oddibook Preview.jpg)
 
 
 
 If no further edits are needed, the advertiser can proceed to the payment phase by choosing to continue after the preview.
 
-![payment preview](</img/Advertiser Oddibook Payments.jpg>)
+![paymentpreview](/img/Advertiser Oddibook Payments.jpg)
 
 
 The advertiser can add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet or by scanning a QR code, which redirects the advertiser to their payment wallet app.
 
-![payment page](</img/Advertiser OddiBook wallet payment.jpg>)
+![paymentpage](/img/Advertiser OddiBook wallet payment.jpg)
 
 
 After payment, the advertiser is redirected to the dashboard, where a payment confirmation is displayed. Additionally, a confirmation email is also sent to the advertiser for their records.
 
-![payment confirmation](</img/Advertiser OddiBook payment confirmation.jpg>)
+![paymentconfirmation](/img/Advertiser OddiBook payment confirmation.jpg)
 
 
 Once submitted, the campaign will be reviewed by the KOL. You’ll receive updates on the approval status via Email, Telegram, and directly through your Oddin account.
@@ -61,19 +61,19 @@ Once submitted, the campaign will be reviewed by the KOL. You’ll receive updat
  A KOL can set up their X or Telegram account in the OddiBook tab by clicking on “new channel”.
 
 
-![new channel](</img/KOL OddiBook New Channel.jpg>)
+![newchannel](/img/KOL OddiBook New Channel.jpg)
 
 
 The KOL can then add in their account details and set a Pay Per Post price and save their settings.
 
 
-![setup process](</img/KOL OddiBook Channel setup.jpg>)
+![setupprocess](/img/KOL OddiBook Channel setup.jpg)
 
 
 After setting up your channel, KOLs can access the campaign through the OddiBook tab. They have the option to preview the campaign content and decide whether to accept or reject it based on the creative and alignment with their audience. The advertiser organizes and frames the content as agreed upon in the approval to ensure maximum engagement and impact.
 
 
-![review](</img/KOL OddiBook Post Preview.jpg>)
+![review](/img/KOL OddiBook Post Preview.jpg)
 
 
 Following the approval from the KOL, the advertiser is cleared to upload their post to the platform.
