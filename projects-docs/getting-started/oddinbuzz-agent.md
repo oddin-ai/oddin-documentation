@@ -46,6 +46,36 @@ OddinBuzz provides a subscription-based service designed to automate and enhance
 
 - **Personalized Account Management**: Receive dedicated account management providing a single point of contact, which simplifies communication and coordination, enhancing overall operational efficiency and campaign success.
 
+### Subscription Setup Process
+
+You can find and pay for the plan most suitable for your needs by clicking on the settings tab in the dashboard where you would find the “OddinBuzz Settings” section at the bottom.
+
+![Plan selection](/img/OddinBuzz-payment-plans.jpg)
+
+After selecting and confirming your plan, you will be redirected to the payments page.The advertiser can add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet.
+
+![Payment gateway](/img/OddinBuzz-Payment-page.jpg)
+
+The advertiser can add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet.
+
+![Payment wallet setup](/img/Oddinbuzz-payment-wallet.jpg)
+
+After clicking on continue, the user will be given a payment subscription type option where you can either choose to subscribe with auto renew which is automated or subscribe with email invoices which is a manual payment option. You can click on “Subscribe on auto renew” for OddinBuzz Payments.
+
+![Subscription setup](/img/OddinBuzz-Subscription-type.jpg)
+
+After selecting auto renew subscription type and clicking on continue, you have to click on “Set allowance” and you will be directed to the payment page.
+
+![allowance setup](/img/OddinBuzz-Post-subscription.jpg)
+
+After clicking on the Subscribe button your payment will be processed.
+
+![Payment](/img/OddinBuzz-Payment-Subscibe.jpg)
+
+The page will then show you a payment confirmation message.
+
+![Confirmation](/img/OddinBuzz-Payment-confirmation.jpg)
+
 ### Plans:
 
 Explore the diverse range of OddinBuzz subscription plans tailored to meet the unique demands of your marketing strategy and enhance your engagement with influential KOLs:-
@@ -81,33 +111,3 @@ Explore the diverse range of OddinBuzz subscription plans tailored to meet the u
 - **Full AI Optimization Suite**: Access to a full suite of advanced AI tools is included, offering detailed analytics, precise targeting, and campaign optimization capabilities. These tools employ sophisticated algorithms to continuously improve the relevance and impact of campaigns.
 - **Unlimited Revisions**: Subscribers can make unlimited content revisions, offering the ultimate flexibility to tweak and refine campaigns as often as needed. This feature is essential for dynamic markets where continuous content updating can drive engagement and success.
 - **Dedicated Account Manager**: A dedicated account manager is provided to offer personalized service and support. This manager acts as a single point of contact for all needs, ensuring dedicated assistance and a tailored service experience throughout the subscription period.
-
-### Subscription Setup Process
-
-You can find and pay for the plan most suitable for your needs by clicking on the settings tab in the dashboard and you would find the “OddinBuzz Settings” section at the bottom.
-
-![Plan selection](/img/OddinBuzz-payment-plans.jpg)
-
-After selecting and confirming your plan, you will be redirected to the payments page.The advertiser can add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet.
-
-![Payment gateway](/img/OddinBuzz-Payment-page.jpg)
-
-The advertiser can add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet.
-
-![Payment wallet setup](/img/Oddinbuzz-payment-wallet.jpg)
-
-After clicking on continue, the user will be given a payment subscription type option where you can either choose to subscribe with auto renew which is automated or subscribe with email invoices which is a manual payment option. You can click on “Subscribe on auto renew” for OddinBuzz Payments.
-
-![Subscription setup](/img/OddinBuzz-Subscription-type.jpg)
-
-After selecting auto renew subscription type and clicking on continue, you have to click on “Set allowance” and you will be directed to the payment page.
-
-![allowance setup](/img/OddinBuzz-Post-subscription.jpg)
-
-After clicking on the Subscribe button your payment will be processed.
-
-![Payment](/img/OddinBuzz-Payment-Subscibe.jpg)
-
-The page will then show you a payment confirmation message.
-
-![Confirmation](/img/OddinBuzz-Payment-confirmation.jpg)

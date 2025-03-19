@@ -28,18 +28,6 @@ sidebar_position: 5
 
 - Oddin provides the user with a dashboard showcasing an analysis of all key metrics to determine performance. Reports for the campaigns can also be generated as per the user’s requirements.
 
-### What is the minimum budget for starting an ad campaign on Oddin?
-
-- Advertisers can start with a campaign with a budget as low as $1000.
-
-### What should I do if I encounter problems with my ad?
-
-- You can connect with us on our telegram channel @oddinai or drop us an Email at info@oddin.ai
-
-### How can I improve the performance of my ads on Oddin?
-
-- To maximize your earnings, focus on increasing engagement on your Telegram channel through regular, high-quality content and active interaction with your audience. Additionally, optimizing your profile and being open to different types of ad campaigns can also attract more lucrative opportunities.
-
 ### How do I monetize my Telegram channel with Oddin?
 
 - Monetizing your Telegram channel on Oddin is straightforward. Once you register as a KOL and set up your profile, you can start accepting advertising campaigns from our network of advertisers. Our automated system will match your channel with relevant ads based on your audience demographics and content style.

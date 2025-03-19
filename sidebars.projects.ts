@@ -12,6 +12,8 @@ const sidebars: SidebarsConfig = {
       label: 'Getting Started',
       items: [
         'getting-started/for-advertisers',
+        'getting-started/campaign-setup',
+        'getting-started/campaign-management',
         'getting-started/oddinbuzz-agent',
       ],
     },
