@@ -7,7 +7,7 @@
     "start": "docusaurus start",
     "start:proj": "docusaurus start --config docusaurus.config.second.ts",
     "build": "docusaurus build",
-    "build:proj": "docusaurus build --config docusaurus.config.second.ts",
+    "build:proj": "docusaurus build --config docusaurus.config.second.ts --out-dir build/projects",
     "build:all": "npm run build && npm run build:proj -- --out-dir build/projects",
     "swizzle": "docusaurus swizzle",
     "swizzle:proj": "docusaurus swizzle --config docusaurus.config.second.ts",

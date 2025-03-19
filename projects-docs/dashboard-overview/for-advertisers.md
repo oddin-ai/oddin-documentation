@@ -1,4 +1,4 @@
-# For Advertisers
+# The dashboard
 
 1. **Main Page**
    Get a snapshot of your current campaign performance from this main dashboard view. It showcases essential metrics such as impressions, clicks, and budget utilization, alongside a summary of recent activities to keep you informed about ongoing marketing efforts.

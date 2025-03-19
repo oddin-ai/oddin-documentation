@@ -1,4 +1,4 @@
-# For KOLs
+# First Steps
 
 ## Setting Up Your Account
 

@@ -1,4 +1,4 @@
-# For KOLs
+# The dashboard
 
 1. **Main Page**
    Access a comprehensive dashboard displaying real-time analytics of your channel's performance, including metrics such as clicks, impressions, and earnings, both daily and monthly. This central hub helps you quickly gauge your monetization efforts and audience engagement.
@@ -18,7 +18,7 @@
 3. **Channels**
    This area is dedicated to managing your Telegram & X channels linked to Oddin. Here, you can add new channels, update existing ones, or fine-tune settings to align with specific campaign requirements, maximizing your advertising effectiveness.
 
-4. **Orders - (OddiBook)**
+4. **OddiBook**
    Oversee all incoming campaign requests from advertisers in this module. You have the power to review details, accept offers that match your channel’s ethos, or decline those that don’t fit, giving you full control over the content your audience sees.
 
 5. **Reports**
