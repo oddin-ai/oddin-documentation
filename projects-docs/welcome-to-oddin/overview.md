@@ -4,13 +4,8 @@ sidebar_position: 2
 
 # Quick Overview
 
-With Oddin, KOLs can easily monetize their Telegram & X channels by sharing relevant ad content that resonates with their audiences, all through a fully integrated bot (1). Advertisers, on the other hand, gain access to a powerful dashboard where they can create targeted campaigns, manage ad placements, and track results in real-time—ensuring their ads reach the right people on channels they trust. Together, Oddin’s ecosystem empowers KOLs to grow their earnings and gives advertisers greater control and flexibility to reach the right audience.
+Oddin offers a tailored solution for advertisers aiming to effectively engage audiences on Telegram & X channels. Our platform provides a robust dashboard that simplifies campaign creation, ad management, and real-time performance tracking, ensuring your advertisements reach precisely the right audiences through trusted Key Opinion Leaders (KOLs) who have already built engaged communities in the crypto space. Our platform is specifically designed to address the unique challenges of crypto marketing, providing the control, transparency, and measurable results that modern advertisers demand in this dynamic space.
 
-This document will introduce you to Oddin’s advertising ecosystem, designed to simplify and enhance the experience for KOLs and advertisers alike. We’ll cover Oddin’s core features, explain how each participant can benefit, and guide you through getting started with the platform.
+This document will highlight the essential features of Oddin's advertising ecosystem, designed to streamline your advertising efforts. You'll discover how our platform provides enhanced control over your campaigns, from targeted ad placements to detailed analytics, all aimed at optimizing your advertising outcomes and guide you through setting up your first campaign with minimal friction.
 
-_Oddin is redefining the crypto advertising and, by extension, the crypto marketing landscape, making it simpler, more reliable, and more profitable for everyone involved._
-
-:::note
-
-1. Bot is only available for Telegram Channels ATM.
-   :::
+_Explore how Oddin is transforming crypto advertising by offering more reliability and profitability, helping you achieve superior results with less effort._
