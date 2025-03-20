@@ -6,14 +6,15 @@ sidebar_position: 1
 
 ## Abstract
 
-_Oddin revolutionizes Telegram & X channel monetization by transforming complex processes into seamless revenue streams. Developed by KOLs, specifically for KOLs. Our solution emerges from deep expertise in content creation and audience engagement. Oddin makes it easy for KOLs to earn money by displaying high-quality, relevant ads from trusted advertisers on their channels without having to deal with communication and payment issues, and managing endless admin tasks. Our programmatic platform automates everything—from project discovery to ad delivery and payment—so you can focus on creating engaging content while increasing your channel’s earnings._
+_Oddin revolutionizes your advertising strategy by transforming complex influencer management into seamless campaigns across Telegram and X channels. Our platform connects you with a curated network of Key Opinion Leaders (KOLs) through an intuitive, programmatic system that drives exceptional results. Developed with insights from seasoned KOLs, Oddin automates the entire campaign process—from influencer discovery to ad placement and performance tracking. This automation allows you to focus on strategic growth while our system optimizes your campaign execution._
 
-_For advertisers, Oddin's impact is equally transformative. Instead of managing dozens of individual influencer relationships, they gain instant access to a curated network of authentic voices. **Our standardized dashboard cuts campaign setup time from weeks to minutes, while providing real-time performance metrics.** Oddin's innovative system boosts the accessibility, reliability, and profitability of advertising, benefiting all parties involved in the ecosystem._
+_With Oddin, you gain immediate access to a diverse pool of authentic voices through a centralized dashboard. **This integration reduces campaign setup from weeks to minutes and provides real-time performance metrics for dynamic management decisions.** Oddin's streamlined system enhances the accessibility, reliability, and profitability of your advertising campaigns._
 
-The true power of Oddin lies in its network effect. As more micro-influencers join our platform, advertisers gain access to increasingly targeted audience segments. This virtuous cycle drives higher engagement rates - our micro-influencer campaigns consistently outperform traditional advertising by 3-4x in terms of audience response and conversion rates and increasing their monthly earnings by 40-60% while reducing their administrative workload by up to 75%. Our platform transforms scattered, time-consuming processes into a streamlined revenue engine, enabling creators to focus on what they do best - creating impactful content that resonates with their communities.
+Our platform's strength comes from its network effect: as more micro-influencers join, you gain access to increasingly targeted audience segments. This precision drives superior engagement—our micro-influencer campaigns consistently outperform traditional advertising by 3-4x in audience response and conversion rates. Advertisers using our platform typically experience a 40-60% improvement in campaign efficiency while reducing administrative workload by up to 75%. Oddin transforms fragmented processes into a streamlined campaign engine, enabling you to focus on developing compelling messaging that truly resonates with your target audience.
+
 
 <center>
-### _"Stop managing ads. Start growing revenue."_
+### _"Stop managing projects. Start driving results."_
 </center>
 :::note
 We will publish our in-depth technical whitepaper later where we outline relevant technical concepts and implementation details core to the Oddin network.
