@@ -80,7 +80,7 @@ The page will then show you a payment confirmation message.
 
 Explore the diverse range of OddinBuzz subscription plans tailored to meet the unique demands of your marketing strategy and enhance your engagement with influential KOLs:-
 
-#### Base Plan - For smaller projects @$420/month
+#### Base Plan - For smaller projects @$620/month
 
 - **Limited KOL Access**: Subscribers have selective access to a curated list of key opinion leaders (KOLs), allowing for targeted campaign engagements with influential personalities within specific niches.
 - **OddinBuzz Agent Access**: Subscribers gain access to AI-powered content curation from announcement groups with OddinBuzz, automatically delivered by our agent.
@@ -90,7 +90,7 @@ Explore the diverse range of OddinBuzz subscription plans tailored to meet the u
 - **Basic AI Recommendations**: The platform provides basic AI-driven recommendations to enhance campaign decisions. These suggestions are generated through data analysis, helping subscribers optimize their advertising strategies with data-backed insights.
 - **1 Content Revision per Month**: Each subscriber is entitled to one content revision per month, allowing them to make strategic adjustments to their campaigns based on performance data or KOL feedback, ensuring that the content remains relevant and impactful.
 
-#### Growth Plan - For projects scaling their reach @$840/month
+#### Growth Plan - For projects scaling their reach @$1240/month
 
 - **Broader KOL Access**: Subscribers enjoy access to a wider network of key opinion leaders (KOLs) across various industries and interests. This expanded access allows for more diverse campaign opportunities and the ability to reach broader audiences.
 - **OddinBuzz Agent Access**: Subscribers gain access to AI-powered content curation from announcement groups with OddinBuzz, automatically delivered by our agent.
@@ -101,7 +101,7 @@ Explore the diverse range of OddinBuzz subscription plans tailored to meet the u
 - **4 Content Revisions per Month**: Subscribers can now make up to four content revisions per month, allowing for continual optimization of campaign content based on performance data and KOL feedback. This flexibility supports dynamic marketing strategies and rapid adaptation to market responses.
 - **Shared Account Manager**: A shared account manager is provided, adding a layer of personalized service. This manager acts as a point of contact for any issues or needs that arise, ensuring a seamless experience and dedicated support for subscribers.
 
-#### Premium Plan - For businesses seeking full flexibility & control @$2420/month
+#### Premium Plan - For businesses seeking full flexibility & control @$2880/month
 
 - **Full KOL Access**: Subscribers receive unrestricted access to an extensive network of key opinion leaders (KOLs), enabling them to engage with a vast range of influencers across different sectors. This full access facilitates unlimited campaign possibilities tailored to diverse audience segments.
 - **OddinBuzz Agent Access**: Subscribers gain access to AI-powered content curation from announcement groups with OddinBuzz, automatically delivered by our agent.
