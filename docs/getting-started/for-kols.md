@@ -73,8 +73,8 @@ Once your channel is connected, complete your profile details within the dashboa
 
 1. After adding your details in the settings page, you can link your Telegram and X channels by going to the channels page and clicking on “New Channel”.
    ![Channels Page](/img/oddin-kol-channels.jpg)
-2. You will then be directed to the channel setting page where you can add details of your channel and save.
-   ![Settings Page](/img/oddin-channel-setup.jpg)
+2. You will then be directed to the channel settings page where you can add your channel name, username, and channel ID (found in the URL by switching Telegram to the A version via the settings bar). You can also set the language, choose a category for your channel & set runtime settings for your channel.
+   ![Settings Page](/img/KOL-Channel-New.png)
 
 ## Tracking Your Earnings
 
