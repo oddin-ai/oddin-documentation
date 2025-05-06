@@ -21,10 +21,16 @@ Creating a campaign in Oddin is simple and intuitive. Follow these steps to set 
    - **Daily Budget**: Set daily budget for the campaign. This determines the daily reach and duration of your campaign.
    - **Cost, Cost Structure, State**: Currently, these fields can only be set by contacting Oddin, and their values will be determined based on the agreement made with Oddin.
 
-![Campaign Form](/img/oddin-campaign-form.jpg)
+![Campaign Form](/img/adv-campaign-settings.jpg)
 
 4. **Review and Submit**\
-   Carefully review all campaign details to ensure accuracy. When you’re ready, click “Save & Publish” to create your campaign. It will now appear in the campaign table, where you can manage and make further changes as needed.
+   Carefully review all campaign details to ensure accuracy. When you’re ready, click “Save & Publish” to create your campaign.You can also Preview your campaign after setting it up. It will now appear in the campaign table, where you can manage and make further changes as needed. 
+
+   ![Campaign Review](/img/adv-campaign-review.jpg)
+
+   ![Campaign Preview](/img/adv-campaign-preview.jpg)
+
+   ![Campaign Page](/img/adv-campaign-page.jpg)
 
 :::note
 
