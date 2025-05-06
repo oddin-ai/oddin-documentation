@@ -50,7 +50,7 @@ OddinBuzz provides a subscription-based service designed to automate and enhance
 
 You can find and pay for the plan most suitable for your needs by clicking on the settings tab in the dashboard where you would find the “OddinBuzz Settings” section at the bottom.
 
-![Plan selection](/img/OddinBuzz-payment-plans.jpg)
+![Plan selection](/img/OddinBuzz-updated-payment-plans.jpg)
 
 After selecting and confirming your plan, you will be redirected to the payments page.The advertiser can add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet.
 
