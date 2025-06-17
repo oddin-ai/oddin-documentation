@@ -25,6 +25,7 @@ const sidebars: SidebarsConfig = {
         'dashboard-overview/for-advertisers',
       ],
     },
+    '4x4-post-strategy',
     'faq',
   ],
 };

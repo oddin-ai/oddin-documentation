@@ -50,31 +50,23 @@ OddinBuzz provides a subscription-based service designed to automate and enhance
 
 You can find and pay for the plan most suitable for your needs by clicking on the settings tab in the dashboard where you would find the “OddinBuzz Settings” section at the bottom.
 
-![Plan selection](/img/OddinBuzz-updated-payment-plans.jpg)
+![Plan selection](/img/Oddinbuzz-new-payment-plans.jpg)
 
-After selecting and confirming your plan, you will be redirected to the payments page.The advertiser can add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet.
+After selecting and confirming your plan, you will be redirected to the payments page.The advertiser can add their deatils and select the authorization amount for the payment.
 
-![Payment gateway](/img/OddinBuzz-Payment-page.jpg)
+![Payment gateway](/img/OddinBuzz-Openpay-payment-page.jpg)
 
-The advertiser can add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet.
+After the authorization amount is selected, the advertiser can then add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, user can click on connect and payments can be made directly through the wallet.
 
-![Payment wallet setup](/img/Oddinbuzz-payment-wallet.jpg)
+![Payment wallet setup](/img/Oddinbuzz-openpay-wallet-connect.jpg)
 
-After clicking on continue, the user will be given a payment subscription type option where you can either choose to subscribe with auto renew which is automated or subscribe with email invoices which is a manual payment option. You can click on “Subscribe on auto renew” for OddinBuzz Payments.
+After clicking on the connect button, you will be directed to your wallet platform from where the payment can be processed.
 
-![Subscription setup](/img/OddinBuzz-Subscription-type.jpg)
-
-After selecting auto renew subscription type and clicking on continue, you have to click on “Set allowance” and you will be directed to the payment page.
-
-![allowance setup](/img/OddinBuzz-Post-subscription.jpg)
-
-After clicking on the Subscribe button your payment will be processed.
-
-![Payment](/img/OddinBuzz-Payment-Subscibe.jpg)
+![Payment](/img/Oddinbuzz-openpay-payment-processing.jpg)
 
 The page will then show you a payment confirmation message.
 
-![Confirmation](/img/OddinBuzz-Payment-confirmation.jpg)
+![Confirmation](/img/Oddinbuzz-Openpay-payment-confirm.jpg)
 
 ### Plans:
 
