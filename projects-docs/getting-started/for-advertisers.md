@@ -97,7 +97,7 @@ This budget will be used for operating your campaigns under a Cost-Per-Click (CP
 **Payment Details (for Post-Serving)**
 
 - After selecting the amount to top-up, you'll be redirected to our payment gateway.
-- Follow the same steps as your initial OddinBuzz plan subscription to add your budget through the payment processor.
+- Follow the same steps as your initial Monthly plan subscription to add your budget through the payment processor.
 
 ![Oddin Post server payment gateway](/img/Oddin-post-server-openpay.jpg)
 
