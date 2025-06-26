@@ -43,11 +43,11 @@ This guide will walk you through the essential steps to set up your Oddin advert
 
 ![Post Signup](/img/Oddin-post-signup-new.jpg)
 
-### Selecting & funding Your OddinBuzz Plan
+### Selecting & funding Your Monthly Platform Plan
 
 **Plan Selection**
 
-- Upon completing your profile, you will be directed to the OddinBuzz plan selection page within your dashboard.
+- Upon completing your profile, you will be directed to the Monthly Platform Plan selection page within your dashboard.
 - Select and confirm the plan most suitable for your needs.
 
 ![OddinBuzz Plans](/img/Oddinbuzz-plans-post-signup.jpg)
