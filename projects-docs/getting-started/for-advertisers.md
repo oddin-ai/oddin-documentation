@@ -1,13 +1,22 @@
 # First Steps
 
-## Creating Your Account
+## Getting Started with Oddin
 
-**What you will require for a setup**
+This guide will walk you through the essential steps to set up your Oddin advertiser account, select a suitable plan, and fund your campaigns.
+
+### What You'll Need
 
 - Verified email address.
 - Your ad content.
+- A preferred payment method (e.g., crypto wallet details).
+- Your social media IDs (Telegram, Discord, X) for profile completion.
 
-To get started with Oddin as an advertiser, select a plan from our website: https://oddin.ai/content-distribution and you will be directed to the Oddin dashboard sign up page. 
+### Creating Your Account
+
+**Select Your Oddin Plan:** \
+
+- Go to https://oddin.ai/content-distribution and choose the plan that best suits your advertising needs.
+- You will be redirected to the Oddin Dashboard sign-up page.
 
 ![Website Plan selection](/img/Oddin-website-plan-selection.png)
 
@@ -22,7 +31,7 @@ After submitting the form, check your email for a verification code. Enter the v
 ![Email Verification](/img/Oddin-email-verification-new.jpg)
 
 **Complete the Sign-Up Form**\
-Enter the required information, including your name/Organisation name, website, Telegram, discord and X user ID. Make sure to provide accurate contact information, as this will be used for account verification and campaign updates. After entering your details, click on "Save". 
+Enter the required information, including your name/Organisation name, website, Telegram, discord and X user ID. Make sure to provide accurate contact information, as this will be used for account verification and campaign updates. After entering your details, click on "Save".
 
 ![Post Signup](/img/Oddin-post-signup-new.jpg)
 
