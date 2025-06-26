@@ -52,11 +52,11 @@ You can find and pay for the plan most suitable for your needs by clicking on th
 
 ![Plan selection](/img/Oddinbuzz-new-payment-plans.jpg)
 
-After selecting and confirming your plan, you will be redirected to the payments page.The advertiser can add their deatils and select the authorization amount for the payment.
+After selecting and confirming your plan, you will be redirected to the payments page. The advertiser can add their deatils and select the authorization amount for the payment.
 
 ![Payment gateway](/img/OddinBuzz-Openpay-payment-page.jpg)
 
-After the authorization amount is selected, the advertiser can then add their payment wallet details to facilitate the transaction.To continue with the payment process, the user can add their wallet. Once the wallet has been added, user can click on connect and payments can be made directly through the wallet.
+After the authorization amount is selected, the advertiser can then add their payment wallet details to facilitate the transaction. To continue with the payment process, the user can add their wallet. Once the wallet has been added, user can click on connect and payments can be made directly through the wallet.
 
 ![Payment wallet setup](/img/Oddinbuzz-openpay-wallet-connect.jpg)
 
@@ -64,7 +64,7 @@ After clicking on the connect button, you will be directed to your wallet platfo
 
 ![Payment](/img/Oddinbuzz-openpay-payment-processing.jpg)
 
-The page will then show you a payment confirmation message.
+The page will then show you a payment confirmation message and you will be directed to back to the dashboard.
 
 ![Confirmation](/img/Oddinbuzz-Openpay-payment-confirm.jpg)
 

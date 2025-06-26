@@ -7,32 +7,69 @@
 - Verified email address.
 - Your ad content.
 
-To get started with Oddin as an advertiser, you can sign up directly through the Oddin dashboard or reach out to us through our [Official Telegram Channel](https://t.me/oddinai), [Oddin Community Group](https://t.me/+xC7MTyOquMowMmM0). Here’s how to sign up on the dashboard:
+To get started with Oddin as an advertiser, select a plan from our website: https://oddin.ai/content-distribution and you will be directed to the Oddin dashboard sign up page. 
 
-**Go to the Oddin Dashboard** \
-Visit the Oddin login page at https://adm.oddin.ai/login .
+![Website Plan selection](/img/Oddin-website-plan-selection.png)
 
-![Dashboard Login](/img/oddin-dashboard-login.jpg)
+**Oddin Dashboard Sign up** \
+Enter your name and email address, create a new username and password. After entering your details, click on "Continue".
 
-**Select “Sign Up”** \
-On the login page, click the “Sign Up” option to begin creating your account.
+![Dashboard Signup](/img/Oddin-dashboard-signup-new.jpg)
 
 **Verify Your Email** \
-After submitting the form, check your email for a verification link. Click the link to confirm your email address and activate your Oddin account.
+After submitting the form, check your email for a verification code. Enter the verification code sent on your Email and activate your Oddin account.
 
-![Email Verification](/img/oddin-email-verification.jpg)
+![Email Verification](/img/Oddin-email-verification-new.jpg)
 
 **Complete the Sign-Up Form**\
-Enter the required information, including your name, email address, and password. Make sure to provide accurate contact information, as this will be used for account verification and campaign updates. Make sure to select "I want to advertise my project/product/service (Advertiser) in the "Please tell us who you are:" section of the sign-up form.
+Enter the required information, including your name/Organisation name, website, Telegram, discord and X user ID. Make sure to provide accurate contact information, as this will be used for account verification and campaign updates. After entering your details, click on "Save". 
 
-![Signup Form](/img/oddin-signup-form.jpg)
-
-Post verification, you will receive a confirmation and you will be redirected to the login page.
-
-![Post Signup](/img/oddin-post-signup.jpg)
+![Post Signup](/img/Oddin-post-signup-new.jpg)
 
 **Access the Dashboard** \
-Once your account is verified, log in to the dashboard to start creating ad campaigns, and tracking campaign performance.
+Once the signup process is complete, you will be directed to the OddinBuzz plan selection page on the dashboard. You can find and pay for the plan most suitable for your needs.
+
+![OddinBuzz Plans](/img/Oddinbuzz-plans-post-signup.jpg)
+
+After selecting and confirming your plan, you will be redirected to the payments page. The advertiser can add their deatils and select the authorization amount for the payment.
+
+![OddinBuzz Payment gateway Page](/img/Oddinbuzz-openpay-post-signup.jpg)
+
+After the authorization amount is selected, the advertiser can then add their payment wallet details to facilitate the transaction. To continue with the payment process, the user can add their wallet. Once the wallet has been added, user can click on connect and payments can be made directly through the wallet.
+
+![Payment wallet setup](/img/Oddinbuzz-openpay-wallet-connect.jpg)
+
+After clicking on the connect button, you will be directed to your wallet platform from where the payment can be processed.
+
+![Payment](/img/Oddinbuzz-openpay-payment-processing.jpg)
+
+The page will then show you a payment confirmation message and you will be directed to back to the dashboard.
+
+![Confirmation](/img/Oddinbuzz-Openpay-payment-confirm.jpg)
+
+Once you've subscribed to an OddinBuzz plan, navigate to the Settings page on the dashboard and fill in the required information in the designated fields.
+
+![Dashboard settings](/img/Oddin-KOL-settings-page.jpg)
+
+After entering your details, scroll to the bottom of the Settings page to select your budget for Oddin's post-serving activity. Once the budget is selected, click on "Proceed with payment".
+
+![Post server budget selection](/img/Oddin-KOL-post-server-budget-selection.jpg)
+
+After selecting and confirming your plan, you will be redirected to the payments page. The advertiser can add their deatils and connect their wallet for the payment.
+
+![Oddin Post server payment gateway](/img/Oddin-post-server-openpay.jpg)
+
+After the payments page is opened, the advertiser can then add their payment wallet details to facilitate the transaction. To continue with the payment process, the user can add their wallet. Once the wallet has been added, user can click on connect and payments can be made directly through the wallet.
+
+![Payment wallet setup](/img/Oddin-post-server-openpay-wallet-setup.jpg)
+
+After that click on the "Pay" Button and you will be directed to your wallet platform from where the payment can be processed.
+
+![Payment](/img/Oddin-post-server-openpay-payment.jpg)
+
+The page will then show you a payment confirmation message and you will be directed to back to the dashboard.
+
+![Confirmation](/img/Oddin-post-server-openpay-confirm.jpg)
 
 :::note
 
