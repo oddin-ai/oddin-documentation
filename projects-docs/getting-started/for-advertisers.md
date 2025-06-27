@@ -81,7 +81,7 @@ This budget will be used for operating your campaigns under a Cost-Per-Click (CP
 
 **Navigate to Dashboard Settings**
 
-- - If you are not already in your dashboard settings, navigate to the 'Settings' page using the navigation bar.
+- If you are not already in your dashboard settings, navigate to the 'Settings' page using the navigation bar.
 - Here, you can optionally add or update invoice details and other profile information. Click 'Save' to apply any changes.
 - Scroll to the bottom of the page to find the 'Budget' section.
 
