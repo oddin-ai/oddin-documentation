@@ -1,65 +1,54 @@
 # OddiBook
 
-OddiBook enables advertisers to directly engage with KOLs by submitting campaigns via an intuitive & streamlined self-service platform. This feature simplifies the creation of customized campaigns specifically designed for individual KOL channels. Our automated campaign submission process empowers advertisers to create precisely targeted proposals, maximizing campaign effectiveness across selected KOL channels while reducing administrative overhead. This seamless approach transforms traditional outreach into a strategic, efficient process that delivers measurable results.
+OddiBook brings advertisers directly to your channel through a seamless, self-service campaign submission system. Instead of navigating back-and-forth DMs or unclear proposals, you receive structured, personalized campaigns aligned with your needs. Our intelligent matching system connects you with pre-qualified advertisers who submit detailed, ready-to-execute campaigns tailored to your niche and audience. OddiBook empowers you to work efficiently, stay in control, and monetize smarter.
 
 ### Key Benefits
 
-- **Direct Engagement with KOLs**: OddiBook facilitates a direct line of communication allowing for deeper insights and more personalized campaign alignments that resonate with the KOL's audience.
-- **Intuitive Self-Service Platform**: The platform is designed to be user-friendly, making it accessible for advertisers of all skill levels.
-- **Customized Campaign Creation**: customization ensures that the content is relevant and engaging to the audience, which can lead to higher engagement rates and better campaign performance.
-- **Automated Submission Process**: The automated features of OddiBook streamline the submission of campaigns, reducing manual tasks and the possibility of errors.
-- **Efficient and Time-Saving**: The streamlined and automated processes inherent in the OddiBook platform significantly cut down on the time and effort traditionally required to manage KOL campaigns.
+- **Direct Campaign Opportunities:** Advertisers can submit campaigns tailored for your channel, reducing the need for outreach on your part.
+- **Time-Saving Automation:** Automated submissions reduce manual negotiation and speed up collaboration.
+- **Audience-Aligned Briefs:** Get campaign offers tailored to your niche, voice, and community, increasing authenticity and engagement.
+- **Centralized Campaign Hub:** Track, review, and manage all incoming offers in one place.
+
 
 ## KOL Setup Process
 
-A KOL can set up their X or Telegram account in the OddiBook tab by clicking on “new channel”.
+### Setting up a Channel
+
+**Create New Channel**
+- To begin, a KOL must log into the dashboard and navigate to the “OddiBook” tab. 
+- Click “New Channel” to add a Telegram or X (Twitter) account.
 
 ![new channel](/img/KOL-OddiBook-New-Channel.jpg)
 
-The KOL can then add in their account details and set a Pay Per Post price and save their settings.
+**Channel Setup**
+- The KOL can then enter their channel details and set a Pay Per Post price.
+- Click Save Settings.
 
 ![setup process](/img/KOL-OddiBook-Channel-setup.jpg)
 
-After setting up your channel, KOLs can access the campaign through the OddiBook tab. They have the option to preview the campaign content and decide whether to accept or reject it based on the creative and alignment with their audience. The advertiser organizes and frames the content as agreed upon in the approval to ensure maximum engagement and impact.
+### Sharing the OddiBook Link
+
+**Post Channel Setup**
+- Once your channel is set up and approved, your personalized OddiBook campaign link will be visible in the OddiBook Tab.
+- This is the link you’ll share with advertisers.
+- Link Format: https://oddin.ai/inv/yourchannelname
+
+![OddiBook Link](/img/KOL-OddiBook-New-Channel.jpg)  
+
+**Share the OddiBook Link**
+- To get campaign orders, add the OddiBook link in the bio of your Telegram Channel or X profile.
+- Example:"For inquiries about Posts Serving : https://oddin.ai/inv/yourchannelname"
+- This makes it easier for advertisers to discover the channel, reducing back-and-forth and increasing campaign conversion.
+
+![Link Share](/img/OddiBook-link-channel-setup.jpg)
+ 
+### Campaign Review
+
+ **Review Incoming Campaigns**
+- After setting up your channel, Check the OddiBook tab for new campaign proposals.
+- Click Preview to review content.
+- Accept or reject based on alignment with your audience.
 
 ![review](/img/KOL-OddiBook-Post-Preview.jpg)
 
-Following the approval from the KOL, the advertiser is cleared to upload their post to the platform.
-
-## Advertiser/Project requset flow
-
-### Access the Suggest Campaign Link
-
-Click on the link provided by the KOL or publisher. The link is in the format of https://oddin.ai/inv/#identifier#
-
-### Fill Out the Campaign Submission Form
-
-The form is divided into three parts:
-
-- **Choose a KOL Channel**: Select the KOL’s channel where you’d like your campaign or post to appear.
-- **Enter Post Details**: Enter the content details for your post, including the ad text, link (if applicable), and any required instructions. Upload the creative materials (e.g., images or videos) for the campaign and submit it for approval..
-- **Add Extra Contact Details**: Provide any additional contact information to ensure clear communication with the KOL.
-
-![channel selection](/img/Advertiser-Oddibook-Channel-selection.jpg)
-
-![order post details](/img/Advertiser-OddiBook-Campaign-setup-2.jpg)
-
-### Approval Process
-
-Upon completion of the setup process, the advertiser can click the “Preview & Proceed with Payment” button, allowing them to review their campaign. At this stage, they have the option to make edits if necessary.
-
-![campaign setup](/img/Advertiser-Oddibook-Preview.jpg)
-
-If no further edits are needed, the advertiser can proceed to the payment phase by choosing to continue after the preview.
-
-![payment preview](/img/Advertiser-Oddibook-Payments.jpg)
-
-The advertiser can add their payment wallet details to facilitate the transaction. To continue with the payment process, the user can add their wallet. Once the wallet has been added, payments can be made directly through the wallet or by scanning a QR code, which redirects the advertiser to their payment wallet app.
-
-![payment page](/img/Advertiser-OddiBook-wallet-payment.jpg)
-
-After payment, the advertiser is redirected to the dashboard, where a payment confirmation is displayed. Additionally, a confirmation email is also sent to the advertiser for their records.
-
-![payment confirmation](/img/Advertiser-OddiBook-payment-confirmation.jpg)
-
-Once submitted, the campaign will be reviewed by the KOL. You’ll receive updates on the approval status via Email, Telegram, and directly through your Oddin account.
+- Once approved by the KOL, the advertiser can move forward with payment and confirm the posting schedule.
