@@ -4,9 +4,15 @@ sidebar_position: 6
 
 # FAQ
 
+Navigating the world of crypto advertising and KOL marketing on platforms like Telegram presents unique challenges. At Oddin, our mission is to bring transparency and efficiency to this ecosystem. This page answers the most common questions from advertisers, based on our direct experience and platform data, to help you launch effective, ROI-driven campaigns.
+
 ### What is Oddin?
 
 - Oddin is a platform that offers a simple way to earn money and rewards by displaying ads alongside your online content. With Oddin, you can showcase relevant and engaging ads to your audience, and even customize them to fit the needs of your channel(s).
+
+### What is KOL Crypto Marketing?
+
+KOL Crypto Marketing leverages the voice of Key Opinion Leaders (KOLs)—influencers with a strong community following on platforms like Telegram, X, and other Decentralised Social Media Networks. These influencers amplify your project’s narrative by creating tailored, value-first content.
 
 ### How does Oddin work?
 

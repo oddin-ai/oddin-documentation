@@ -36,8 +36,20 @@ sidebar_position: 5
 
 - Yes, Oddin supports KOLs with multiple channels. You can manage all your channels under one Oddin account, making it easier to monitor campaigns and earnings across different platforms.
 
-### Feedback
+---
 
-Email: info@oddin.ai
+### **Support & Feedback**
 
-Form: https://docs.google.com/forms/d/e/1FAIpQLSfI2EfXI1pDI0DOhwWA2Es_uZltXFk87D1X9hZ8dFlVRSt03Q/viewform
+#### What should I do if I encounter a problem?
+
+Our support team is ready to help. For any issues with your account or campaigns, you can:
+
+- **Chat with us on Telegram:** [@oddinai](https://t.me/oddinai)
+- **Email our support desk:** [info@oddin.ai](mailto:info@oddin.ai)
+
+#### Have a suggestion or question we missed?
+
+We are constantly improving our platform and resources based on user feedback.
+
+- **Email us:** [info@oddin.ai](mailto:info@oddin.ai)
+- **Submit Feedback:** Use our [anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfI2EfXI1pDI0DOhwWA2Es_uZltXFk87D1X9hZ8dFlVRSt03Q/viewform).
