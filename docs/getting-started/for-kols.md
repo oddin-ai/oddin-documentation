@@ -1,5 +1,18 @@
 # First Steps
 
+## Channel Requirements
+
+To maintain the quality and effectiveness of campaigns, all KOLs must ensure their channels meet the following minimum requirements before participating in any campaigns:
+
+- **Minimum Subscriber Count:** Each channel must have at least 1,000 subscribers. 
+
+- **Average Post Engagement:** Channels must demonstrate a minimum average of 100 views per post having consistent organic engagement from your audience.
+
+- **Clean Traffic:** Traffic must be organic and free from Artificial engagement, bot traffic, or purchased followers/views. Channels under review for suspicious activity will not be approved.
+
+These baseline criteria help ensure that campaigns reach real, engaged audiences and deliver meaningful results for advertisers.
+
+
 ## Setting Up Your Account
 
 **What you will require for a setup**
