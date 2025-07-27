@@ -4,14 +4,13 @@
 
 To maintain the quality and effectiveness of campaigns, all KOLs must ensure their channels meet the following minimum requirements before participating in any campaigns:
 
-- **Minimum Subscriber Count:** Each channel must have at least 1,000 subscribers. 
+- **Minimum Subscriber Count:** Each channel must have at least 1,000 subscribers.
 
 - **Average Post Engagement:** Channels must demonstrate a minimum average of 100 views per post having consistent organic engagement from your audience.
 
 - **Clean Traffic:** Traffic must be organic and free from Artificial engagement, bot traffic, or purchased followers/views. Channels under review for suspicious activity will not be approved.
 
 These baseline criteria help ensure that campaigns reach real, engaged audiences and deliver meaningful results for advertisers.
-
 
 ## Setting Up Your Account
 
@@ -27,31 +26,33 @@ Channel: [Oddin Official Channel](https://t.me/oddinai)
 Group Chat: [Oddin Community Group](https://t.me/+xC7MTyOquMowMmM0)
 
 **Go to the Oddin Dashboard** \
-Visit the Oddin login page at https://adm.oddin.ai/login .
+Visit the Oddin sign up page at https://adm.oddin.ai/signup .
 
-![Dashboard Login](/img/oddin-dashboard-login.jpg)
+![Dashboard Signup](/img/oddin-dashboard-signup-kol.jpg)
 
-**Select “Sign Up”** \
-On the login page, click the “Sign Up” option to begin creating your account.
+If you have landed on the Oddin login page, click the “Sign Up” option to begin creating your account. Make sure to select "KOL (Join as a kol/influencer)
 
 **Verify Your Email** \
 After submitting the form, check your email for a verification link. Click the link to confirm your email address and activate your Oddin account.
 
 ![Email Verification](/img/oddin-email-verification.jpg)
 
-**Complete the Sign-Up Form**\
-Enter the required information, including your name, email address, and password. Make sure to provide accurate contact information, as this will be used for account verification and campaign updates. Make sure to select "I want to earn money by sharing content on my channel (KOL/Influencer) in the "Please tell us who you are:" section of the sign-up form.
+**Confirm Oddin Terms of service**
+Make sure to read the Oddin Terms of service for KOLs, after scrolling down and reading the terms, you will be able to click "Confirm" and continue.
 
-![Signup Form](/img/oddin-signup-form.jpg)
+![Terms of Service](/img/oddin-kol-terms-of-service.jpg)
 
-Post verification, you will receive a confirmation and you will be redirected to the login page.
+**Complete your Sign-Up information**\
+Enter the required information, including your Name, Website, Telegram username, and your Polygon wallet address where you can recieve USDC . Make sure to provide accurate contact information, as this will be used for account verification, campaign updates and payments.
 
-![Post Signup](/img/oddin-post-signup.jpg)
+![Signup Form](/img/Oddin-kol-settings-page-new.jpg)
 
 After your sign up is approved, proceed with the following steps to access your Oddin dashboard:
 
 **Visit the Oddin Login Page**\
 Go to https://adm.oddin.ai/login to access the login page.
+
+![Dashboard Login](/img/oddin-dashboard-login.jpg)
 
 **Login Options**
 
