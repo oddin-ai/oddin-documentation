@@ -16,6 +16,11 @@ sidebar_position: 5
 
 - After accessing our platform at https://adm.oddin.ai, a new user can click the 'Sign Up' link at the bottom of the login dialog. They will then be redirected to a sign-up form.
 
+#### How do I set up my channel profile and posting rules?
+
+- In Channels → New Channel, add name/username/ID, set language, choose category, and configure runtime preferences for how/when ads run.
+
+
 ### How does Oddin ensure Quality and safety?
 
 - We have multiple layers of protection in place. Every advertisement undergoes automated content screening before approval to check for inappropriate content and compliance with platform guidelines. Additionally, we maintain a robust verification system for both advertisers and content creators, ensuring that all participants are legitimate and trustworthy.
@@ -32,9 +37,50 @@ sidebar_position: 5
 
 - Monetizing your Telegram channel on Oddin is straightforward. Once you register as a KOL and set up your profile, you can start accepting advertising campaigns from our network of advertisers. Our automated system will match your channel with relevant ads based on your audience demographics and content style.
 
+### Which platforms can I connect to my Oddin account?
+
+- Telegram and X (Twitter) are supported via the PostServer, OddinBuzz & OddiBook setup flow. 
+
+### How do I get a direct inbound link for advertisers (OddiBook)?
+
+- After approval, your OddiBook link appears in the OddiBook tab (format: oddin.ai/inv/yourchannelname) Share it in your channel bio/profile so advertisers can submit campaigns directly.
+
+### Can I set my own Pay-Per-Post price?
+
+- Yes, enter your price when setting up the channel in OddiBook.
+
+### How do I review and accept campaigns?
+
+- Go to OddiBook → Preview incoming proposals, then Accept/Reject based on fit for your audience. 
+
+### What are the minimum requirements for my channel to be approved?
+
+- At least 1,000 subscribers, ~100 average views per post, and clean, organic traffic (no bots or paid/fake engagement).
+
+### What wallet/currency do I add for payouts?
+
+- Add your Polygon wallet address in the Settings tab to receive earnings in USDC.
+
+### What metrics will I see as a KOL?
+
+- Your dashboard and reports show impressions, clicks & earnings to monitor performance and trends.
+
+### Can I run both Telegram and X with OddiBook?
+
+- Yes, OddiBook supports adding Telegram or X (Twitter) accounts and managing them centrally.
+
+### What happens if my channel dips below the requirements?
+
+- Oddin may pause approval or campaigns if traffic looks inauthentic. Keep engagement organic and consistent to maintain eligibility.
+
+
 ### Can I use Oddin if I have multiple Telegram channels?
 
 - Yes, Oddin supports KOLs with multiple channels. You can manage all your channels under one Oddin account, making it easier to monitor campaigns and earnings across different platforms.
+
+Recommended channel standards (to help you get approved faster)
+We suggest publishing clear analytics, keeping traffic clean (no fake/bot engagement), and maintaining consistent posting. (Add your internal thresholds here—e.g., 1,000+ subscribers & ~100 avg views/post—if you want them public.)
+
 
 ---
 
